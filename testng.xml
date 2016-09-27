@@ -10,7 +10,7 @@
 <classes>
 <class name ="test.tests.RockPaperScissorsTest">
 <methods>
-<include name ="testWinPlay"></include>
+<include name ="testLostPlay"></include>
 </methods>
 </class>
 
